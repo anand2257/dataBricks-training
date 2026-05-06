@@ -1,2 +1,4 @@
-Day 1: SQL Practice
-I solved 45 queries from the "sql practice queries.pdf" file. I focused on mastering the basics like joins, grouping data, and filtering to build a strong foundation for DataBricks Training.I tested and practiced all these queries in DB Fiddle to make sure they work correctly.
+Day 1
+I solved 45 queries from the "sql practice queries.pdf" file to build a strong foundation for my upcoming DataBricks Training. I focused on mastering essential concepts like joins, grouping data, and filtering.
+
+To ensure accuracy, I tested and practiced every query in DB Fiddle to confirm they work correctly in a real environment.
