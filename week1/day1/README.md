@@ -1,4 +1,4 @@
-# [Day 1](week1/day1/)
+# [Day 1]
 
 I solved queries from the "sql practice queries.pdf" file to build a strong foundation for my upcoming DataBricks Training. I focused on mastering essential concepts like joins, grouping data, and filtering.
 
